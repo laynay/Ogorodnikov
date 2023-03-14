@@ -3,7 +3,7 @@ from tkinter import ttk
 import sqlite3
 
 root = Tk()
-root.title('Data base')
+root.title('Novaya vetka')
 root.attributes('-fullscreen', True)
 
 
